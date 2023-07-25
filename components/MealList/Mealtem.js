@@ -1,6 +1,6 @@
 import {useNavigation} from '@react-navigation/native';
-import fonts from '../utils/font';
-import MealDetails from './MealDetails';
+import fonts from '../../utils/font';
+import MealDetails from '../MealDetails';
 
 const {
   View,

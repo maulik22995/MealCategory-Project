@@ -1,4 +1,4 @@
-import Icon from 'react-native-ionicons';
+import Icon from 'react-native-vector-icons/Ionicons';
 import {Pressable, StyleSheet, Text} from 'react-native';
 
 const IconButton = ({iconName, color, size, onPress}) => {
